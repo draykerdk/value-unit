@@ -26,3 +26,4 @@ defaults:
       path: ""
     values:
       layout: default
+dk_sphere: "moss"  # value that grows from delivered work

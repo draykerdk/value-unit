@@ -8,11 +8,14 @@ component:
   scope:
     - "Public description of autonomous value unit."
     - "Public description of resource-distribution ecosystem."
+    - "Public description of an accounting record before any unit that moves."
     - "Public description of relation to DAF federative points."
     - "Public description of rules travelling with the unit."
   non_scope:
     - "A token, a currency, an investment or a promise of return."
     - "An operating distribution of resources of any kind."
+    - "Any claim about income, support payments or sustaining anyone financially."
+    - "Automated allocation by Dk before the human rules are written down."
   dependencies:
     - daf
     - dfmpproject

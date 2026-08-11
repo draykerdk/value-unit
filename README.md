@@ -18,6 +18,8 @@ Distributing resources in an organization without a head office needs a unit tha
 
 The least public part of the system. Drayker has internal material on the economic ecosystem, and what is public is the reasoning on the Economy page rather than a specification. It overlaps a gap the DAF has too: the federative point mechanics are unspecified as well, and whether these are one problem or two has not been settled — settling it is itself worth doing.
 
+The internal material describes a possible economy. It demonstrates no implementation, no monetary policy, no liquidity, no audit, no financial governance and no capacity to sustain anyone's income. It is worth being exact about the order of work here: **the first validation is an accounting one, not a monetary one.** What comes first is a transparent record of contributions, needs, decisions and accountability — not a unit that moves. And Dk optimizes none of it until the human rules have been written down by people.
+
 Nothing described here is implemented. This repository exists so that the first
 document about it has somewhere to live and someone can argue with it in public.
 
@@ -25,6 +27,7 @@ document about it has somewhere to live and someone can argue with it in public.
 
 - Autonomous value unit
 - Resource-distribution ecosystem
+- An accounting record before any unit that moves
 - Relation to DAF federative points
 - Rules travelling with the unit
 
@@ -32,6 +35,8 @@ document about it has somewhere to live and someone can argue with it in public.
 
 - A token, a currency, an investment or a promise of return.
 - An operating distribution of resources of any kind.
+- Any claim about income, support payments or sustaining anyone financially.
+- Automated allocation by Dk before the human rules are written down.
 
 ## Role in the system
 
@@ -46,9 +51,12 @@ How value would carry its own rules.
 These are concrete and unclaimed. Any of them can be opened as an issue and delivered
 by one person.
 
-1. Argue whether this and DAF points are the same problem.
-2. Model one distribution rule end to end.
-3. Write down what the unit must never allow.
+1. Specify an experimental ledger of contributions, needs, decisions and accountability:
+   who takes part, what the unit of record is, who reviews it, and what ends it. This
+   is deliberately an accounting exercise, and it comes before everything else here.
+2. Argue whether this and DAF points are the same problem.
+3. Model one distribution rule end to end.
+4. Write down what the unit must never allow.
 
 ## How to contribute
 

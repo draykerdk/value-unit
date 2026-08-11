@@ -1,5 +1,3 @@
-# Value unit
-
 > Value that carries its own rules — it knows where it came from and what it may be spent on.
 
 **A unit of value that carries its own rules.**

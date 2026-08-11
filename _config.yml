@@ -1,0 +1,17 @@
+title: "Value unit"
+description: "A unit of value that carries its own rules. An intelligent, autonomous value unit with its own resource-distribution ecosystem — value that knows where it came from and what it is for, instead of a number that forgets both.."
+remote_theme: draykerdk/drayker-theme
+url: "https://value.drayker.org"
+dk_kicker: "Value and resources"
+dk_subdomain: "value.drayker.org"
+dk_repo: "https://github.com/draykerdk/value-unit"
+
+# The mark, drawn by the shared engine. The scope colour is the main accent until the
+# mark owner assigns one — DRAYKER-MARK.md §7 forbids inventing a new colour.
+dk_body: "geo"
+dk_rings: "collector"
+dk_wedge: "extract"
+dk_accent: "#FF5500"
+
+plugins:
+  - jekyll-sitemap

@@ -38,11 +38,11 @@ document about it has somewhere to live and someone can argue with it in public.
 - Any claim about income, support payments or sustaining anyone financially.
 - Automated allocation by Dk before the human rules are written down.
 
-## Role in the system
+## How it fits the whole
 
-How value would carry its own rules.
+How value would carry its own rules — the unit at the end of the chain that starts with a delivered function.
 
-**Relations.** Overlaps DAF federative points · would be what funds distributed support.
+The economy of Drayker is designed so that what someone delivers is what gives them standing. The value unit is the instrument of that: it overlaps [DAF](https://daf.drayker.org) federative points, and it would be what funds [distributed support](https://support.drayker.org). Every project and application carries a fund, and the [Dk](https://dk.drayker.org) manages funds by category and cause, allocating donations and surpluses where they were meant to go. Value that knows where it came from and what it is for — instead of a number that forgets both — is what lets the ecosystem reward delivered work without rebuilding the hierarchy it replaced.
 
 **Depends on.** `daf` · `dfmpproject`
 

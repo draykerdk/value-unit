@@ -1,8 +1,8 @@
-> Value that carries its own rules — it knows where it came from and what it may be spent on.
+> Value that carries its own rules. It knows where it came from and what it may be spent on.
 
 **A unit of value that carries its own rules.**
 
-An intelligent, autonomous value unit with its own resource-distribution ecosystem — value that knows where it came from and what it is for, instead of a number that forgets both.
+An intelligent, autonomous value unit with its own resource-distribution ecosystem. Value that knows where it came from and what it is for, instead of a number that forgets both.
 
 ## The problem it addresses
 
@@ -16,9 +16,9 @@ Distributing resources in an organization without a head office needs a unit tha
 
 ## Where this stands
 
-The least public part of the system. Drayker has internal material on the economic ecosystem, and what is public is the reasoning on the Economy page rather than a specification. It overlaps a gap the DAF has too: the federative point mechanics are unspecified as well, and whether these are one problem or two has not been settled — settling it is itself worth doing.
+The least public part of the system. Drayker has internal material on the economic ecosystem, and what is public is the reasoning on the Economy page rather than a specification. It overlaps a gap the DAF has too: the federative point mechanics are unspecified as well, and whether these are one problem or two has not been settled. Settling it is itself worth doing.
 
-The internal material describes a possible economy. It demonstrates no implementation, no monetary policy, no liquidity, no audit, no financial governance and no capacity to sustain anyone's income. It is worth being exact about the order of work here: **the first validation is an accounting one, not a monetary one.** What comes first is a transparent record of contributions, needs, decisions and accountability — not a unit that moves. And Dk optimizes none of it until the human rules have been written down by people.
+The internal material describes a possible economy. It demonstrates no implementation, no monetary policy, no liquidity, no audit, no financial governance and no capacity to sustain anyone's income. It is worth being exact about the order of work here: **the first validation is an accounting one, not a monetary one.** What comes first is a transparent record of contributions, needs, decisions and accountability. Not a unit that moves. And Dk optimizes none of it until the human rules have been written down by people.
 
 Nothing described here is implemented. This repository exists so that the first
 document about it has somewhere to live and someone can argue with it in public.
@@ -71,11 +71,11 @@ Participation is voluntary and implies no compensation, employment or future cla
 ## Sources of truth
 
 - This repository, for what Value unit is and is not.
-- [`.drayker/component.yml`](.drayker/component.yml) — the machine-readable contract,
+- [`.drayker/component.yml`](.drayker/component.yml). The machine-readable contract,
   validated on every pull request.
-- [drayker.org/project/valueunit/](https://drayker.org/project/valueunit/) — the same record
+- [drayker.org/project/valueunit/](https://drayker.org/project/valueunit/). The same record
   inside the portal, with the live board.
-- [drayker.com/project/valueunit/](https://drayker.com/project/valueunit/) — the case for it,
+- [drayker.com/project/valueunit/](https://drayker.com/project/valueunit/). The case for it,
   in plain terms.
 
 ---

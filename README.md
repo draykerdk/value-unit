@@ -28,6 +28,7 @@ document about it has somewhere to live and someone can argue with it in public.
 - Autonomous value unit
 - Resource-distribution ecosystem
 - An accounting record before any unit that moves
+- Part of the value management ecosystem — the documented whole where funds, categories and the tree of causes give the unit its place
 - Relation to DAF federative points
 - Rules travelling with the unit
 

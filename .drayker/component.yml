@@ -2,7 +2,7 @@ schema_version: 1
 component:
   id: valueunit
   name: Value unit
-  layer: APPLICATION
+  layer: ORGANIZATION
   artifact_type: architecture
   problem: "Distributing resources in an organization without a head office needs a unit that can hold a rule."
   scope:

@@ -4,7 +4,7 @@ component:
   name: Value unit
   layer: ORGANIZATION
   artifact_type: architecture
-  problem: "Distributing resources in an organization without a head office needs a unit that can hold a rule."
+  problem: "Common resources need purpose, consent, accountability and member-governed constraints that survive transfer."
   scope:
     - "Public description of autonomous value unit."
     - "Public description of resource-distribution ecosystem."
@@ -16,6 +16,7 @@ component:
     - "An operating distribution of resources of any kind."
     - "Any claim about income, support payments or sustaining anyone financially."
     - "Automated allocation by Dk before the human rules are written down."
+    - "A contribution score that creates membership, human worth or automatic access to resources."
   dependencies:
     - daf
     - dfmpproject
@@ -28,10 +29,11 @@ component:
   risks:
     - Design language may be mistaken for an available capability.
     - The absence of a specification can leave contributions without a clear target.
+    - Intelligent or autonomous language can obscure that Dk may model and recommend but members decide.
   contributions:
     availability: open
     entrypoint: https://github.com/draykerdk/value-unit/issues
   source_of_truth:
     repository: https://github.com/draykerdk/value-unit
     path: README.md
-  last_reviewed: "2026-08-11"
+  last_reviewed: "2026-08-17"

@@ -12,7 +12,7 @@ Distributing resources in an organization without a head office needs a unit tha
 
 **What would change.** The unit carries its conditions with it, so resources meant for a purpose can only serve that purpose.
 
-**Why the rest depends on it.** Resources following delivered work needs a unit that can express the rule. Otherwise it stays a promise.
+**Why the rest depends on it.** Common resources need rules that survive transfer: purpose, consent, accountability and the limits members decided. Otherwise every allocation depends on whoever happens to hold the account.
 
 ## Where this stands
 
@@ -41,9 +41,9 @@ document about it has somewhere to live and someone can argue with it in public.
 
 ## How it fits the whole
 
-How value would carry its own rules — the unit at the end of the chain that starts with a delivered function.
+How value could carry member-governed rules — the accounting and constraint layer for common capacity, not a score of persons.
 
-The economy of Drayker is designed so that what someone delivers is what gives them standing. The value unit is the instrument of that: it overlaps [DAF](https://daf.drayker.org) federative points, and it would be what funds [distributed support](https://support.drayker.org). Every project and application carries a fund, and the [Dk](https://dk.drayker.org) manages funds by category and cause, allocating donations and surpluses where they were meant to go. Value that knows where it came from and what it is for — instead of a number that forgets both — is what lets the ecosystem reward delivered work without rebuilding the hierarchy it replaced.
+Contribution creates public evidence that may inform trust and deliberation; it does not purchase membership, human worth or automatic access. The value-unit proposal overlaps [DAF](https://daf.drayker.org) federative points and the accounting needed for [distributed support](https://support.drayker.org). Every project and application may carry a fund. [Dk](https://dk.drayker.org) can organize evidence, model scenarios and recommend how categories and causes relate, but it neither owns nor allocates common resources: accountable member governance decides. Value that keeps its source and purpose is meant to help those decisions remain auditable without rebuilding the hierarchy Drayker exists to move beyond.
 
 **Depends on.** `daf` · `dfmpproject`
 

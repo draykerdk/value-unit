@@ -4,32 +4,39 @@ component:
   name: Value unit
   layer: ORGANIZATION
   artifact_type: architecture
-  problem: "Common resources need purpose, consent, accountability and member-governed constraints that survive transfer."
+  problem: "Drayker needs a stable representation of available and distributed resources that projects can spend under their own authority and that can bridge external exchange without pricing reputation."
   scope:
-    - "Public description of autonomous value unit."
-    - "Public description of resource-distribution ecosystem."
+    - "Public description of the external economy and internal capacity boundary."
+    - "Public description of Dktron as the proposed stable representation of resources."
+    - "Public description of value, reputation and DAF points as distinct concepts."
+    - "Public description of project and category funds and an accountable ledger."
+    - "Public description of project spending authority inside an allocated fund."
+    - "Public description of external negotiation through proposed Drayker bridge infrastructure."
+    - "Stable value as an architectural requirement requiring specification and evidence."
     - "Public description of an accounting record before any unit that moves."
-    - "Public description of relation to DAF federative points."
-    - "Public description of rules travelling with the unit."
   non_scope:
-    - "A token, a currency, an investment or a promise of return."
+    - "A token, currency, investment, security or financial product available today."
     - "An operating distribution of resources of any kind."
-    - "Any claim about income, support payments or sustaining anyone financially."
-    - "Automated allocation by Dk before the human rules are written down."
-    - "A contribution score that creates membership, human worth or automatic access to resources."
+    - "Any current guarantee of stability, appreciation, yield, liquidity, exchangeability, income or support payments."
+    - "A price for reputation, membership, voting rights or human worth."
+    - "An internal market where basic capacity is sold to members."
+    - "Automated allocation by Dk without constitutional rules, accountable authorization and review."
+    - "Unverified rates, stabilization mechanisms or monetary claims treated as current guarantees."
   dependencies:
     - daf
     - dfmpproject
   implementation:
     level: none
-    scope: This repository publishes a charter and open questions; nothing is implemented.
+    scope: This repository publishes the current architectural formulation and open requirements; nothing is implemented.
     evidence:
       - type: document
         ref: README.md
   risks:
     - Design language may be mistaken for an available capability.
     - The absence of a specification can leave contributions without a clear target.
-    - Intelligent or autonomous language can obscure that Dk may model and recommend but members decide.
+    - Intelligent or autonomous language can obscure that Dk performs contextual synthesis while consequential allocations still require accountable authorization and review.
+    - Removing all monetary language may erase Dktron's resource-representation and external-exchange roles.
+    - Stable-value language may be mistaken for a demonstrated peg or financial guarantee.
   contributions:
     availability: open
     entrypoint: https://github.com/draykerdk/value-unit/issues

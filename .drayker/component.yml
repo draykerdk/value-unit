@@ -4,18 +4,24 @@ component:
   name: Value unit
   layer: ORGANIZATION
   artifact_type: architecture
-  problem: "Distributing resources in an organization without a head office needs a unit that can hold a rule."
+  problem: "Distributing resources and relating worldwide donations and external economies to a distributed organization needs a common, accountable value language."
   scope:
-    - "Public description of autonomous value unit."
-    - "Public description of resource-distribution ecosystem."
-    - "Public description of an accounting record before any unit that moves."
-    - "Public description of relation to DAF federative points."
-    - "Public description of rules travelling with the unit."
+    - "Public description of Dktron as one unitary form in the wider family of value units."
+    - "Public description of non-deterministic resource distribution under contextual and contestable rules."
+    - "Public description of possible use as a currency in lawful external markets."
+    - "Public description of converting foreign-currency donations into one Drayker unit."
+    - "Public description of stabilization, monetary and economic mechanisms that still require specification and validation."
+    - "Public description of provenance, purpose, permissions and accountable review."
+    - "Public description of an accounting record before an operating unit."
+    - "Public separation from DAF federative points and general reputation."
+    - "Public description of relation to the internal capacity economy."
   non_scope:
-    - "A token, a currency, an investment or a promise of return."
-    - "An operating distribution of resources of any kind."
+    - "An issued token or operating currency today."
+    - "An investment, guaranteed price, guaranteed convertibility or promise of return."
+    - "An operating distribution of resources today."
     - "Any claim about income, support payments or sustaining anyone financially."
     - "Automated allocation by Dk before the human rules are written down."
+    - "Buying member status, reputation, voting weight or priority with money."
   dependencies:
     - daf
     - dfmpproject
@@ -28,10 +34,11 @@ component:
   risks:
     - Design language may be mistaken for an available capability.
     - The absence of a specification can leave contributions without a clear target.
+    - Currency, conversion and stabilization claims can create financial expectations before legal, monetary, liquidity and governance mechanisms exist.
   contributions:
     availability: open
     entrypoint: https://github.com/draykerdk/value-unit/issues
   source_of_truth:
     repository: https://github.com/draykerdk/value-unit
     path: README.md
-  last_reviewed: "2026-08-11"
+  last_reviewed: "2026-08-20"

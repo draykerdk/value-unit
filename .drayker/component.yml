@@ -4,41 +4,40 @@ component:
   name: Value unit
   layer: ORGANIZATION
   artifact_type: architecture
-  problem: "Distributing resources and relating worldwide donations and external economies to a distributed organization needs a common, accountable value language."
+  problem: "Distributing resources and relating external material needs to a distributed organization needs an accountable capacity accounting language without financial speculation."
   scope:
-    - "Public description of Dktron as one unitary form in the wider family of value units."
+    - "Public description of Dktron as an internal capacity accounting and settlement unit."
     - "Public description of non-deterministic resource distribution under contextual and contestable rules."
-    - "Public description of possible use as a currency in lawful external markets."
-    - "Public description of converting foreign-currency donations into one Drayker unit."
-    - "Public description of stabilization, monetary and economic mechanisms that still require specification and validation."
+    - "Public description of temporary custody: capacity allocated to active tasks returns immediately to the general metabolism if work stops."
+    - "Public description of conversion into fiat currency through lawful bridges for member material sustenance and external project expenses."
     - "Public description of provenance, purpose, permissions and accountable review."
     - "Public description of an accounting record before an operating unit."
     - "Public separation from DAF federative points and general reputation."
     - "Public description of relation to the internal capacity economy."
   non_scope:
-    - "An issued token or operating currency today."
-    - "An investment, guaranteed price, guaranteed convertibility or promise of return."
+    - "An issued speculative token, volatile cryptocurrency, investment, security or financial product."
+    - "Perpetual property or passive rentier accumulation of idle capacity or hardware."
     - "An operating distribution of resources today."
-    - "Any claim about income, support payments or sustaining anyone financially."
-    - "Automated allocation by Dk before the human rules are written down."
+    - "Any guarantee of yield, appreciation, liquidity, income or support payments."
+    - "Automated allocation by Dk without constitutional rules, accountable authorization and review."
     - "Buying member status, reputation, voting weight or priority with money."
   dependencies:
     - daf
     - dfmpproject
   implementation:
     level: none
-    scope: This repository publishes a charter and open questions; nothing is implemented.
+    scope: This repository publishes the current architectural formulation and open requirements; nothing is implemented.
     evidence:
       - type: document
         ref: README.md
   risks:
-    - Design language may be mistaken for an available capability.
+    - Currency or token language can create speculative financial expectations before legal and accounting boundaries are understood.
     - The absence of a specification can leave contributions without a clear target.
-    - Currency, conversion and stabilization claims can create financial expectations before legal, monetary, liquidity and governance mechanisms exist.
+    - Temporary custody rules must be strictly stated to prevent rentier accumulation.
   contributions:
     availability: open
     entrypoint: https://github.com/draykerdk/value-unit/issues
   source_of_truth:
     repository: https://github.com/draykerdk/value-unit
     path: README.md
-  last_reviewed: "2026-08-20"
+  last_reviewed: "2026-09-03"

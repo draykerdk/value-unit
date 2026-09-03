@@ -1,70 +1,58 @@
-> A unit of value for distributing resources inside Drayker and relating them to economies outside it.
+# Value unit
 
-**One unitary form of value in the capacity economy.**
+> The boundary where external resources become accountable internal capacity without becoming a market for reputation or speculative trading.
 
-**Dktron** is one proposed unitary form within Drayker's family of value units. It can be used in the non-deterministic distribution of resources inside the system and may also operate as a currency in external markets. One of its intended functions is to convert donations received in foreign currencies around the world into a single Drayker unit, with its own stabilization and economic mechanisms.
+**Dktron represents available capacity, task allocations, and bridges external material needs.**
+
+The Value Unit project researches Dktron as an internal accounting and capacity liquidation unit: how resources enter Drayker, how they are allocated to specific projects under temporary custody, how members convert capacity into external currencies for personal material sustenance, and how resources return to the common metabolism if work stops. Reputation remains an entirely separate system.
 
 ## The problem it addresses
 
-Relating needs, resources, donations and external obligations to a distributed organization needs a common value language that preserves provenance, purpose and accountable rules. Otherwise every allocation becomes an opaque negotiation, and negotiations favour whoever is loudest.
+Drayker needs to account for what resources exist, where they are allocated, and how external material support becomes common capacity without importing an internal market or rentier accumulation into membership.
 
-**How it works today.** Money often loses context as it moves, so intent has to be reconstructed or enforced by whoever happens to hold it.
+**How it works today.** Resources arrive through ordinary external arrangements — grants, donations, contracts, purchases. Nothing internal represents them, and nothing accounts for their distribution.
 
-**What would change.** A Dktron can represent and move an allocation after a contextual, non-deterministic decision, link it to its source, purpose, permissions and review path, and provide a common conversion layer for donations and lawful external exchange. The decision to expand someone's or a project's capacity still depends on context and member governance, not on mere ownership of the unit.
+**What would change.** Dktron represents available capacity and its distribution to project and category funds under temporary custody. A project decides how to deploy the capacity it receives within its purpose and review constraints. If a project becomes inactive or finishes, idle capacity returns automatically to the general metabolism. Proposed Drayker bridges connect Dktron to lawful external exchange so members can pay living costs (food, housing, tools) without financial speculation.
 
-**Why the rest depends on it.** The system needs a way to distribute resources and interface with outside economies without letting money buy position, reputation or automatic priority inside Drayker.
+**Why the rest depends on it.** Without an accountable representation of capacity, common resources cannot be allocated, audited, or protected against hoarding — and external support cannot become internal capability.
 
 ## Where this stands
 
-The least public part of the system. Drayker has internal material on the economic ecosystem, and what is public is the reasoning on the Economy page rather than a specification. DAF federative points are a separate, non-transferable ledger for one governance experiment. General reputation is a contextual memory of relationship. Dktron is a third object: a unit of value that may carry resource distributions, connect foreign-currency donations to one system unit, and participate in external markets.
+The repository publishes the current architectural formulation of Dktron and its relation to the economy of capacity. Value, reputation, and DAF federative points are distinct concepts. No Dktron is issued, priced, sold or traded as a cryptocurrency; no speculative token exists.
 
-The internal material describes a possible economy. It demonstrates no implementation, issued currency, validated monetary policy, stabilization mechanism, liquidity, audit, financial governance or capacity to sustain anyone's income. It is worth being exact about the order of work here: **the first validation is still an accounting one.** A transparent record of contributions, needs, decisions and accountability must precede an operating unit. Dk optimizes none of it until the human rules have been written down by people.
-
-Nothing described here is implemented. This repository exists so that the first
-document about it has somewhere to live and someone can argue with it in public.
+The first validation is an accounting one, not a speculative one: a transparent record of contributions, needs, temporary custody, and contestable accountability. Dk models scenarios, but human member governance decides allocations inside systemic safeguards.
 
 ## Scope
 
-- Dktron as one unitary form in the wider family of value units
-- Non-deterministic distribution of resources, under contextual and contestable rules
-- Use as a currency in lawful external markets
-- Conversion of donations from foreign currencies into one Drayker unit
-- Stabilization, monetary and economic mechanisms to be specified and validated
-- Provenance, purpose, permissions and accountable review
-- An accounting record before an operating unit
-- Relation to the internal capacity economy without reducing capacity to ownership of currency
-- Separation from DAF federative points and general member reputation
-- Rules linked to the instrument and revisable through governance
+- Dktron as the internal accounting unit of capacity and settlement
+- Temporary custody: resources allocated to active tasks return to the common pool if work ceases
+- Accountable project allocations with contestable review paths
+- Lawful bridge infrastructure to convert credits to fiat for external living and project expenses
+- Value, reputation, and DAF points as separate, non-collapsible concepts
+- Protection against rentier accumulation and idle resource hoarding
 
 ## Not in scope
 
-- An issued token or operating currency today.
-- An investment, guaranteed price, guaranteed convertibility or promise of return.
-- An operating distribution of resources today.
-- Any claim about income, support payments or sustaining anyone financially.
-- Automated allocation by Dk before the human rules are written down.
-- Buying member status, reputation, voting weight or priority with money.
+- An issued token, cryptocurrency, investment, yield product or financial asset
+- Perpetual property or rentier ownership over common capacity or hardware
+- An internal market where basic capacity or member status is bought with money
+- Any speculative guarantee of appreciation, trading profit or liquidity pools
+- Automated allocation by Dk without constitutional rules, human authorization and review
 
 ## How it fits the whole
 
-How a common unit can carry resource decisions inside Drayker and connect them accountably to external economies.
+How resources become accountable internal capacity — the accounting and constraint layer for common capacity, not a market for persons.
 
-Inside Drayker, owning currency does not buy member status, reputation, voting weight or automatic priority. Need, intention, reputation, knowledge, resources, risk, opportunity and consequence can inform a non-deterministic contextual allocation, subject to member governance and contestability. Dktron is one form that may represent and transport the resulting distribution, receive converted donations, and mediate lawful external exchange through mechanisms designed for stability. [Dk](https://dk.drayker.org) may model options and consequences; it does not autonomously govern funds. [DAF](https://daf.drayker.org) points remain a separate experimental ledger, and [distributed support](https://support.drayker.org) is the broader program for satisfying members' needs rather than a synonym for this unit.
+Inside Drayker, money cannot buy member status, reputation, voting weight or priority. Need, intention, reputation, knowledge, resources, risk, opportunity and consequence inform contextual allocations under member governance. Dktron represents and moves that capacity under temporary custody. [Dk](https://dk.drayker.org) models options and consequences; it does not autonomously own or govern funds. [DAF](https://daf.drayker.org) points remain a separate experimental ledger, and [Distributed Support](https://support.drayker.org) is the broader multilevel program for satisfying members' needs.
 
 **Depends on.** `daf` · `dfmpproject`
 
 ## First functions
 
-These are concrete and unclaimed. Any of them can be opened as an issue and delivered
-by one person.
-
-1. Specify an experimental ledger of contributions, needs, decisions and accountability:
-   who takes part, what the unit of record is, who reviews it, and what ends it. This
-   is deliberately an accounting exercise, and it comes before everything else here.
-2. Specify the separation between Dktron, DAF points, contextual reputation and the decision that allocates capacity.
-3. Model one non-deterministic resource distribution end to end.
-4. Model donation conversion, external-market use and stabilization, including legal, monetary, liquidity and attack risks.
-5. Write down what the unit must never allow.
+1. **Specify the capacity accounting ledger:** who takes part, what the unit of record is, who reviews it, and what ends it. This is deliberately an accounting exercise.
+2. **Define temporary custody rules:** formalize how capacity returns immediately to the general metabolism upon inactivity.
+3. **Model the external living-expense bridge:** specify lawful conversion to local fiat for member sustenance while preserving privacy and avoiding token speculation.
+4. **Specify non-collapsible separation:** formalize boundaries between Dktron, contextual reputation, and member governance.
 
 ## How to contribute
 

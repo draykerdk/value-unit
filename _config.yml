@@ -1,5 +1,5 @@
 title: "Value unit"
-description: "Internal accounting of common capacity under temporary custody — how resources enter, are allocated and return. No token issued, priced or traded."
+description: "Account for common resources, project custody and personal balances. Value Unit develops Dktron as a proposed unit for accounting and accessing material capacity. It distinguishes common reserves, resources entrusted to projects and balances attributed to members."
 remote_theme: draykerdk/drayker-theme
 url: "https://value.drayker.org"
 dk_kicker: "Value and resources"

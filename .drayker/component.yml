@@ -6,19 +6,21 @@ component:
   artifact_type: architecture
   problem: "Distributing resources and relating external material needs to a distributed organization needs an accountable capacity accounting language without financial speculation."
   scope:
-    - "Public description of Dktron as an internal capacity accounting and settlement unit."
+    - "Public description of Dktron as an internal capacity accounting and settlement unit across three spheres: common pool, project custody, and personal member balances."
     - "Public description of non-deterministic resource distribution under contextual and contestable rules."
-    - "Public description of temporary custody: capacity allocated to active tasks returns immediately to the general metabolism if work stops."
-    - "Public description of conversion into fiat currency through lawful bridges for member material sustenance and external project expenses."
+    - "Public description of temporary custody: project capacity returns to common reserves upon milestone completion or verified abandonment."
+    - "Public description of personal member Dktron: accumulable, transferable, and immune to inactivity confiscation or passive rentier yield."
+    - "Public description of conversion into fiat currency through lawful bridges for member material sustenance based on real material liquidity reserves."
     - "Public description of provenance, purpose, permissions and accountable review."
     - "Public description of an accounting record before an operating unit."
     - "Public separation from DAF federative points and general reputation."
-    - "Public description of relation to the internal capacity economy."
+    - "Public description of relation to the internal capacity economy and plutocratic immunity."
   non_scope:
     - "An issued speculative token, volatile cryptocurrency, investment, security or financial product."
     - "Perpetual property or passive rentier accumulation of idle capacity or hardware."
     - "An operating distribution of resources today."
     - "Any guarantee of yield, appreciation, liquidity, income or support payments."
+    - "Confiscation or seizure of personal member balances based on inactivity."
     - "Automated allocation by Dk without constitutional rules, accountable authorization and review."
     - "Buying member status, reputation, voting weight or priority with money."
   dependencies:

@@ -1,6 +1,6 @@
 # Value unit
 
-> A unit of value that carries its own rules. An intelligent, autonomous value unit with its own resource-distribution ecosystem — value that knows where it came from and what it is for, instead of a number that forgets both.
+> Value Unit develops Dktron as a proposed unit for accounting and accessing material capacity. It distinguishes common reserves, resources entrusted to projects and balances attributed to members.
 
 Value unit is a public component of Drayker. Drayker is the system; Dk is its intelligence; Dk Network is its network.
 

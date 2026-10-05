@@ -22,7 +22,7 @@ component:
     - "Any guarantee of yield, appreciation, liquidity, income or support payments."
     - "Confiscation or seizure of personal member balances based on inactivity."
     - "Automated allocation by Dk without constitutional rules, accountable authorization and review."
-    - "Buying member status, reputation, voting weight or priority with money."
+    - "Buying member status, reputation, weight in member choices or priority with money."
   dependencies:
     - daf
     - dfmpproject

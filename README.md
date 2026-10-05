@@ -29,7 +29,7 @@ The first validation is an accounting one, not a speculative one: a transparent 
 - **Temporary project custody**: capacity allocated to active project tasks returns to common reserves according to approved terms for completion or abandonment
 - **Lawful bridge infrastructure**: conversion of personal credits into local fiat conditioned on actual, verifiable external liquidity reserves
 - **Zero passive yield**: holding Dktron never generates passive interest, dividends, or speculative appreciation
-- **Separation of financial capacity and authority**: financial contributions cannot purchase member status, contextual reputation, or constitutional voting weight
+- **Separation of financial capacity and authority**: financial contributions cannot purchase member status, contextual reputation, or weight in constitutional decisions
 - **Accountable review paths**: contestable allocation procedures with audit trails in Dknowledge
 
 ## Not in scope
@@ -45,7 +45,7 @@ The first validation is an accounting one, not a speculative one: a transparent 
 
 How resources become accountable internal capacity — the accounting and constraint layer for common capacity, not a market for persons.
 
-Inside Drayker, money cannot buy member status, reputation, voting weight or priority. Need, intention, reputation, knowledge, resources, risk, opportunity and consequence inform contextual allocations under member governance. Dktron represents and moves that capacity across common, project, and personal spheres. [Dk](https://dk.drayker.org) models options and consequences; it does not autonomously own or govern funds. [DAF](https://daf.drayker.org) points remain a separate experimental ledger, and [Distributed Support](https://support.drayker.org) is the broader multilevel program for satisfying members' vital needs.
+Inside Drayker, money cannot buy member status, reputation, weight in member choices or priority. Need, intention, reputation, knowledge, resources, risk, opportunity and consequence inform contextual allocations under member governance. Dktron represents and moves that capacity across common, project, and personal spheres. [Dk](https://dk.drayker.org) models options and consequences; it does not autonomously own or govern funds. [DAF](https://daf.drayker.org) points remain a separate experimental ledger, and [Distributed Support](https://support.drayker.org) is the broader multilevel program for satisfying members' vital needs.
 
 **Depends on.** `daf` · `dfmpproject`
 
@@ -54,7 +54,7 @@ Inside Drayker, money cannot buy member status, reputation, voting weight or pri
 1. **Specify the three-sphere accounting ledger:** formalize boundaries between common reserves, project-linked custody, and personal member balances.
 2. **Define project custody & return rules:** formalize how unspent project capacity returns to the general metabolism upon milestone completion or verified abandonment, without touching personal member credits.
 3. **Model the external living-expense bridge:** specify lawful conversion of personal Dktron into local fiat for member sustenance, strictly backed by verifiable material liquidity reserves.
-4. **Specify separation of financial capacity and authority:** formalize technical and constitutional barriers ensuring money buys zero governance weight, reputation, or judicial influence.
+4. **Specify separation of financial capacity and authority:** formalize technical and constitutional barriers ensuring money buys zero governance weight, reputation, or influence over member councils.
 5. **Implement reconciliation simulation:** demonstrate a full cycle where a member holds, transfers, and redeems personal Dktron while project funds and external reserves remain reconciled even under liquidity constraints.
 
 ## How to contribute

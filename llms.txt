@@ -2,7 +2,7 @@
 
 > Value Unit develops Dktron as a proposed unit for accounting and accessing material capacity. It distinguishes common reserves, resources entrusted to projects and balances attributed to members.
 
-Value unit is a public component of Drayker. Drayker is the system; Dk is its intelligence; Dk Network is its network.
+Value unit is a public component of Drayker. Drayker is the supersystem; Dk is its intelligence; Dk Network is its network.
 
 ## Canonical resources
 

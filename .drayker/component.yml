@@ -15,14 +15,15 @@ component:
     - "Public description of an accounting record before an operating unit."
     - "Public separation from DAF federative points and general reputation."
     - "Public description of relation to the internal capacity economy and plutocratic immunity."
+    - "The reward earned by financing the network: a transferable reputation that can give faster or priority access to resources, with no weight in member choices."
   non_scope:
     - "An issued speculative token, volatile cryptocurrency, investment, security or financial product."
     - "Perpetual property or passive rentier accumulation of idle capacity or hardware."
     - "An operating distribution of resources today."
-    - "Any guarantee of yield, appreciation, liquidity, income or support payments."
+    - "Any guarantee of yield, appreciation, liquidity or income. Support for approved members through the common floor is specified in Distributed Support."
     - "Confiscation or seizure of personal member balances based on inactivity."
     - "Automated allocation by Dk without constitutional rules, accountable authorization and review."
-    - "Buying member status, reputation, weight in member choices or priority with money."
+    - "Buying member status, the reputation of work or weight in member choices with money."
   dependencies:
     - daf
     - dfmpproject

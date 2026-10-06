@@ -20,7 +20,7 @@ An allocation record must make clear whose resources it represents, who may use 
 
 The repository publishes the current architectural formulation of Dktron and its relation to the economy of capacity. Value, reputation, and DAF federative points are distinct concepts. No Dktron is issued, priced, sold or traded as a cryptocurrency; no speculative token exists.
 
-The first validation is an accounting one, not a speculative one: a transparent record of contributions, needs, temporary project custody, personal member reserves, and contestable accountability. Dk models scenarios, but human member governance decides allocations inside systemic safeguards.
+The first validation is an accounting one, not a speculative one: a transparent record of contributions, needs, temporary project custody, personal member reserves, and contestable accountability. Dk models scenarios and decides allocations autonomously inside the constitution and its systemic safeguards, and members can make a well-justified veto.
 
 ## Scope
 
@@ -39,7 +39,7 @@ The first validation is an accounting one, not a speculative one: a transparent 
 - An internal market where basic capacity or member status is bought with money
 - Any speculative guarantee of appreciation, trading profit or liquidity pools
 - Confiscation or expiration of personal member balances based on arbitrary inactivity
-- Automated allocation by Dk without constitutional rules, human authorization and review
+- Automated allocation by Dk outside the constitution, its systemic safeguards or the review that a well-justified member veto obliges
 
 ## How it fits the whole
 

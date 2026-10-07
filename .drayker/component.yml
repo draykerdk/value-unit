@@ -4,7 +4,7 @@ component:
   name: Value unit
   layer: ORGANIZATION
   artifact_type: architecture
-  problem: "Distributing resources and relating external material needs to a distributed organization needs an accountable capacity accounting language without financial speculation."
+  problem: "Distributing resources and relating external material needs to a distributed supersystem needs an accountable capacity accounting language without financial speculation."
   scope:
     - "Public description of Dktron as an internal capacity accounting and settlement unit across three spheres: common pool, project custody, and personal member balances."
     - "Public description of non-deterministic resource distribution under contextual and contestable rules."
@@ -43,4 +43,4 @@ component:
   source_of_truth:
     repository: https://github.com/draykerdk/value-unit
     path: README.md
-  last_reviewed: "2026-09-03"
+  last_reviewed: "2026-10-07"

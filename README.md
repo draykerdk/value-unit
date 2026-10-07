@@ -20,7 +20,7 @@ An allocation record must make clear whose resources it represents, who may use 
 
 The repository publishes the current architectural formulation of Dktron and its relation to the economy of capacity. Value, reputation, and DAF federative points are distinct concepts. No Dktron is issued, priced, sold or traded as a cryptocurrency; no speculative token exists.
 
-The first validation is an accounting one, not a speculative one: a transparent record of contributions, needs, temporary project custody, personal member reserves, and contestable accountability. Dk models scenarios and decides allocations autonomously inside the constitution and its systemic safeguards, and members can make a well-justified veto.
+The first validation is an accounting one, not a speculative one: a transparent record of contributions, needs, temporary project custody, personal member reserves, and contestable accountability. Dk models scenarios. On matters outside the constitution, within the space it grants, Dk Global decides and executes autonomously; members can make a well-justified veto, which obliges review.
 
 ## Scope
 
@@ -45,7 +45,7 @@ The first validation is an accounting one, not a speculative one: a transparent 
 
 How resources become accountable internal capacity — the accounting and constraint layer for common capacity, not a market for persons.
 
-Inside Drayker, money cannot buy member status, the reputation of work or weight in member choices. Financing the network earns the reward, a transferable reputation that can give faster or priority access to resources and never weighs in member choices. Need, intention, reputation, knowledge, resources, risk, opportunity and consequence inform contextual allocations under member governance. Dktron represents and moves that capacity across common, project, and personal spheres. [Dk](https://dk.drayker.org) models options and consequences; it does not autonomously own or govern funds. [DAF](https://daf.drayker.org) points remain a separate experimental ledger, and [Distributed Support](https://support.drayker.org) is the broader multilevel program for satisfying members' vital needs.
+Inside Drayker, money cannot buy member status, the reputation of work or weight in member choices. Financing the network earns the reward, the only transferable reputation, which can give faster or priority access to resources and never weighs in member choices. Need, intention, reputation, knowledge, resources, risk, opportunity and consequence inform contextual allocations. Dktron represents and moves that capacity across common, project, and personal spheres. [Dk](https://dk.drayker.org) models options and consequences. It does not own funds. On matters outside the constitution, within the space it grants, Dk Global decides and executes autonomously; members can make a well-justified veto, which obliges review. [DAF](https://daf.drayker.org) points remain a separate ledger, and [Distributed Support](https://support.drayker.org) is the broader multilevel program for satisfying members' vital needs.
 
 **Depends on.** `daf` · `dfmpproject`
 

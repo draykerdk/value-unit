@@ -30,7 +30,36 @@ The first validation is an accounting one, not a speculative one: a transparent 
 - **Lawful bridge infrastructure**: conversion of personal credits into local fiat conditioned on actual, verifiable external liquidity reserves
 - **Zero passive yield**: holding Dktron never generates passive interest, dividends, or speculative appreciation
 - **Separation of financial capacity and authority**: financial contributions cannot purchase member status, the reputation of work, or weight in constitutional decisions. Financing the network earns the reward, the one transferable kind of reputation, which can give faster or priority access to resources
+- **Two sides of the ledger**: the record keeps apart the balance a person can mobilise and the material commitment of the network. Three rules hold: the same resource never appears at the same time as a reserve and as a free budget; a transfer changes the holder without creating a second right; contextual allocation is kept separate from the settlement of rights. A Dktron balance does not buy priority: the reward is a different record, and it is the reward that can give faster or priority access to resources. See [Dktron in Dknowledge](https://dknowledge.drayker.org/papers/main-projects/ecosystem/dktron)
 - **Accountable review paths**: contestable allocation procedures with audit trails in Dknowledge
+
+## Treasury and external interface
+
+Drayker's material capacity depends on the world outside the network: resources come in from it, and expenses are paid to it. The treasury is the interface between the two.
+
+Expenses that cross the interface:
+
+- Energy
+- Servers
+- Land
+- Equipment
+- External professionals
+- Licences
+- Manufacturing
+- Transport
+- Insurance
+- Taxes
+
+Revenues that cross the interface:
+
+- Services
+- Products
+- Licensing
+- Donations
+- Stakes in companies
+- Contracts
+
+The flow runs in both directions. Revenues from the outside world become internal capacity, accounted in Dktron across common reserves, project custody and personal balances. That capacity goes back out as the expenses above, and through the lawful bridge that converts a member's personal balance into local fiat for living expenses. [Distributed Support](https://support.drayker.org) is the program through which that capacity reaches members, projects and communities. No treasury operates today.
 
 ## Not in scope
 

@@ -16,6 +16,8 @@ component:
     - "Public separation from DAF federative points and general reputation."
     - "Public description of relation to the internal capacity economy and plutocratic immunity."
     - "The reward earned by financing the network: the only transferable reputation, which can give faster or priority access to resources, with no weight in member choices."
+    - "Public description of the two sides of the ledger (the balance a person can mobilise and the material commitment of the network) and its three rules: no resource counted at once as reserve and free budget, transfer changes the holder without a second right, contextual allocation kept separate from the settlement of rights. A Dktron balance does not buy priority; the reward does."
+    - "Public description of the treasury and external interface: expenses and revenues with the world outside the network, and the flow from external resources to internal capacity and back."
   non_scope:
     - "An issued speculative token, volatile cryptocurrency, investment, security or financial product."
     - "Perpetual property or passive rentier accumulation of idle capacity or hardware."
@@ -43,4 +45,4 @@ component:
   source_of_truth:
     repository: https://github.com/draykerdk/value-unit
     path: README.md
-  last_reviewed: "2026-10-07"
+  last_reviewed: "2026-10-15"

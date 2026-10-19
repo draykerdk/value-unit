@@ -8,14 +8,14 @@ component:
   scope:
     - "Public description of Dktron as an internal capacity accounting and settlement unit across three spheres: common pool, project custody, and personal member balances."
     - "Public description of non-deterministic resource distribution under contextual and contestable rules."
-    - "Public description of temporary custody: project capacity returns to common reserves upon milestone completion or verified abandonment."
+    - "Public description of temporary custody: project capacity stays bound to its purpose, and a surplus returns to common reserves, stays reserved for a planned phase or is reallocated by a new decision."
     - "Public description of personal member Dktron: accumulable, transferable, and immune to inactivity confiscation or passive rentier yield."
     - "Public description of conversion into local currency through lawful bridges for member material sustenance based on real material liquidity reserves."
     - "Public description of provenance, purpose, permissions and accountable review."
     - "Public description of an accounting record before an operating unit."
     - "Public separation from DAF federative points and general reputation."
     - "Public description of relation to the internal capacity economy and plutocratic immunity."
-    - "The reward earned by financing the network: the only transferable reputation, which can give faster or priority access to resources, with no weight in member choices."
+    - "The reward earned by financing the network or contributing capacity to it, such as lent computing: the only transferable reputation, which can give faster or priority access to resources, with no weight in member choices."
     - "Public description of the two sides of the ledger (the balance a person can mobilise and the material commitment of the network) and its three rules: no resource counted at once as reserve and free budget, transfer changes the holder without a second right, contextual allocation kept separate from the settlement of rights. A Dktron balance does not buy priority; the reward does."
     - "Public description of the treasury and external interface: expenses and revenues with the world outside the network, and the flow from external resources to internal capacity and back."
   non_scope:
@@ -45,4 +45,4 @@ component:
   source_of_truth:
     repository: https://github.com/draykerdk/value-unit
     path: README.md
-  last_reviewed: "2026-10-15"
+  last_reviewed: "2026-10-19"

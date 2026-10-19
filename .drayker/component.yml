@@ -6,7 +6,7 @@ component:
   artifact_type: architecture
   problem: "Distributing resources and relating external material needs to a distributed supersystem needs an accountable capacity accounting language without financial speculation."
   scope:
-    - "Public description of Dktron as an internal capacity accounting and settlement unit across three spheres: common pool, project custody, and personal member balances."
+    - "Public description of Dktron as the unit of personal capacity rights, recorded in one ledger alongside common reserves and project custody."
     - "Public description of non-deterministic resource distribution under contextual and contestable rules."
     - "Public description of temporary custody: project capacity stays bound to its purpose, and a surplus returns to common reserves, stays reserved for a planned phase or is reallocated by a new decision."
     - "Public description of personal member Dktron: accumulable, transferable, and immune to inactivity confiscation or passive rentier yield."

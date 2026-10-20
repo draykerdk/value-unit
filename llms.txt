@@ -1,6 +1,6 @@
 # Value unit
 
-> Value Unit develops Dktron as a proposed unit for accounting and accessing material capacity. It distinguishes common reserves, resources entrusted to projects and balances attributed to members.
+> Value Unit develops Dktron as a proposed unit for accounting and accessing material capacity. Dktron is the unit that records the personal capacity rights the network attributes to a member. Common reserves and project custody are recorded alongside it in the same ledger, and capacity becomes Dktron when it is attributed to a person's sphere.
 
 Value unit is a public component of Drayker. Drayker is the supersystem; Dk is its intelligence; Dk Network is its network.
 
